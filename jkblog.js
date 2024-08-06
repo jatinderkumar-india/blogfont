@@ -1,0 +1,1 @@
+console.log(data:view.title);
